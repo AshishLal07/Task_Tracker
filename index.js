@@ -31,5 +31,5 @@ app.listen(port, function (err) {
 		console.log(`Error in running a server: ${err}`);
 		return;
 	}
-	console.log(`Server is running on port: ${process.env.PORT}`);
+	console.log(`Server is running on port: port`);
 });
